@@ -1,0 +1,1 @@
+# cosc122-lab-3-linked-lists-goals-solved
